@@ -1,4 +1,7 @@
-import fcntl
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+
 import smbus
 import time
 from ascii_ls import *
